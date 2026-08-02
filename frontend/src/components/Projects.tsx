@@ -35,8 +35,8 @@ const projects: Project[] = [
       'Typing effect & micro-interactions',
       'Mobile-first responsive design',
     ],
-    link: '#',
-    repo: '#',
+    link: 'https://my-portfolio-theta-lilac-91.vercel.app/',
+    repo: 'https://github.com/Devanshu90/my-portfolio',
   },
 ];
 
