@@ -16,6 +16,7 @@ import {
   SiGit,
   SiGithub,
   SiPostman,
+  SiTypescript,
 } from 'react-icons/si';
 import { VscVscode } from "react-icons/vsc";
 
@@ -38,6 +39,7 @@ const skillGroups: {
       { name: 'Python', icon: SiPython },
       { name: 'C', icon: SiC },
       { name: 'SQL', icon: SiMysql },
+      { name: 'TypeScript', icon: SiTypescript },
     ],
   },
   {
