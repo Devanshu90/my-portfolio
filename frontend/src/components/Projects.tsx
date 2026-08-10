@@ -13,18 +13,18 @@ type Project = {
 
 const projects: Project[] = [
   {
-  name: 'Expense Tracker',
-  description:
-    'A full-stack expense tracking web application that helps users manage income and expenses, monitor their financial activity, and visualize spending patterns through an interactive dashboard.',
-  tags: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
-  highlights: [
-    'Secure user authentication with login & signup',
-    'Track income and expenses with categorized transactions',
-    'Interactive dashboard with financial summaries and analytics',
-  ],
-  link: 'https://expense-tracker-frontend-n8k8.onrender.com',
-  repo: 'https://github.com/Devanshu90/Expense-Tracker-MERN-Stack-Project',
-},
+    name: 'Expense Tracker',
+    description:
+      'A full-stack expense tracking web application that helps users manage income and expenses, monitor their financial activity, and visualize spending patterns through an interactive dashboard.',
+    tags: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
+    highlights: [
+      'Secure user authentication with login & signup',
+      'Track income and expenses with categorized transactions',
+      'Interactive dashboard with financial summaries and analytics',
+    ],
+    link: 'https://expense-tracker-frontend-n8k8.onrender.com',
+    repo: 'https://github.com/Devanshu90/Expense-Tracker-MERN-Stack-Project',
+  },
   {
     name: 'Portfolio Website',
     description:
@@ -37,6 +37,18 @@ const projects: Project[] = [
     ],
     link: 'https://my-portfolio-theta-lilac-91.vercel.app/',
     repo: 'https://github.com/Devanshu90/my-portfolio',
+  },
+  {
+    name: 'Local AI Agent',
+    description:
+      'A locally running AI agent that understands user requests, performs tasks, and maintains persistent memory using a local SQLite database.',
+    tags: ['Python', 'LLM', 'Agentic AI', 'SQLite', 'Local AI'],
+    highlights: [
+      'Persistent agent memory using SQLite',
+      'Task-oriented reasoning and action execution',
+      'Local AI inference using CPU or GPU',
+    ],
+    repo: 'https://github.com/Devanshu90/local-ai-task-agent',
   },
 ];
 

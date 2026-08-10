@@ -78,6 +78,10 @@ const concepts = [
   'Competitive Programming',
   'Responsive UI Design',
   'MERN Stack',
+  'Machine Learning',
+  'Data Preprocessing',
+  'Model Evaluation',
+  'Agentic AI',
 ];
 
 function SkillCard({
