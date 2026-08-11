@@ -96,7 +96,7 @@ export default function Hero() {
             Get in Touch
           </a>
           <a
-            href="/resume.pdf"
+            href="/Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-7 py-3 rounded-xl bg-slate-800/80 border border-slate-700 hover:border-sky-500/40 text-slate-200 font-semibold text-sm transition-all duration-300 hover:-translate-y-0.5"
